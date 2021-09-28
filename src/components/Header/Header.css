@@ -1,0 +1,19 @@
+.head-container{
+    background: url(./doctor.jpg);
+}
+
+.heading{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.heading h2{
+    font-weight: 600;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.heading h5{
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}

@@ -1,0 +1,12 @@
+.doctor-img{
+    width: 400px;
+    height: 300px;
+}
+.card-title{
+    font-weight: 400;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.specialization{
+    color: tomato;
+}
